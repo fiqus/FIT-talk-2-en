@@ -16,3 +16,9 @@ Some of the topics discussed were:
 
 
 2. npm start
+
+
+# To watch the presentation online: 
+
+
+https://fiqus.github.io/FIT-talk-2-en/
